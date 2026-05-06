@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Hermes the Miner - One-Click Launcher
+# Hermes The Miner - One-Click Launcher
 # Usage: ./scripts/launch.sh
 #
 
@@ -20,7 +20,7 @@ print_banner() {
     echo ""
     echo "  ${CYAN}╔════════════════════════════════════════════════════════════════════╗${NC}"
     echo "  ${CYAN}║                                                                    ║${NC}"
-    echo "  ${CYAN}║  ${WHITE}Hermes the Miner${NC}                                      ${CYAN}║${NC}"
+    echo "  ${CYAN}║  ${WHITE}Hermes The Miner${NC}                                      ${CYAN}║${NC}"
     echo "  ${CYAN}║  ${WHITE}Autonomous AI Companion${NC}                                 ${CYAN}║${NC}"
     echo "  ${CYAN}║                                                                    ║${NC}"
     echo "  ${CYAN}╚════════════════════════════════════════════════════════════════════╝${NC}"

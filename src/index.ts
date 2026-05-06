@@ -347,7 +347,7 @@ app.post('/memory/note', (req, res) => {
 // Root endpoint — no dashboard, just info
 app.get('/', (_req, res) => {
   res.json({
-    name: 'Hermes the Miner Bridge',
+    name: 'Hermes The Miner Bridge',
     description: 'Open-to-LAN Minecraft bot controlled via Hermes CLI',
     endpoints: {
       health: 'GET /health',
@@ -399,7 +399,7 @@ wss.on('connection', (ws) => {
 app.listen(API_PORT, () => {
   console.log('');
   console.log('  ╭ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ╮');
-  console.log('  │  Hermes the Miner — Bridge Server                            │');
+  console.log('  │  Hermes The Miner - Bridge Server                            │');
   console.log('  ├ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┤');
   console.log(`  │  REST API:    http://localhost:${API_PORT}`);
   console.log(`  │  WebSocket:   ws://localhost:${WS_PORT}`);

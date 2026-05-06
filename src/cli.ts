@@ -425,6 +425,6 @@ switch (cmd) {
   case '-h':
   case '--help':
   default:
-    console.log('Hermes the Miner — CLI');
+    console.log('Hermes The Miner - CLI');
     console.log(COMMANDS);
 }

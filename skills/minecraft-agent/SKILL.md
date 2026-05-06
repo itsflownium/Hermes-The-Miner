@@ -5,7 +5,7 @@ version: 0.1.0
 tags: [minecraft, gaming, bot, agent, autonomous]
 ---
 
-# Hermes the Miner
+# Hermes The Miner
 
 Play Minecraft alongside the user in an Open-to-LAN world. The bot joins as `Hermes`, gathers resources, mines, crafts, follows, stops, and chats through the local bridge.
 

@@ -1,4 +1,4 @@
-# Hermes the Miner — Command Reference
+# Hermes The Miner — Command Reference
 
 ## Quick Start Commands
 
@@ -73,7 +73,7 @@ Hermes defend me
 
 ## Setup (First Time)
 ```bash
-cd hermes-the-miner
+cd Hermes-The-Miner
 ./scripts/setup.sh
 ```
 

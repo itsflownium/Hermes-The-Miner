@@ -1,10 +1,14 @@
-# Publishing Hermes the Miner
+# Publishing Hermes The Miner
 
 This project is not published to GitHub yet. These notes are here so the folder can be uploaded later as a normal source repository.
 
 ## Repository Scope
 
-Hermes the Miner is the Open-to-LAN Minecraft bot project only. It includes the Node.js bridge, Mineflayer bot, Hermes Agent skill, scripts, tests, and command references needed for users to download and run the bot in a LAN world.
+Hermes The Miner is the Open-to-LAN Minecraft bot project only. It includes the Node.js bridge, Mineflayer bot, Hermes Agent skill, scripts, tests, and command references needed for users to download and run the bot in a LAN world.
+
+Recommended GitHub repository name: `Hermes-The-Miner`.
+
+The public project name should be written as `Hermes The Miner`. The repository slug should use hyphens because GitHub repository URLs should not contain spaces.
 
 ## Files To Include
 

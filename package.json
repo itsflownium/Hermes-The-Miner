@@ -1,7 +1,7 @@
 {
   "name": "hermes-the-miner",
   "version": "0.1.0",
-  "description": "Hermes the Miner — Open-to-LAN Minecraft bot powered by Hermes Agent",
+  "description": "Hermes The Miner - Open-to-LAN Minecraft bot powered by Hermes Agent",
   "type": "module",
   "bin": {
     "hermes-mc": "./dist/cli.js"
