@@ -71,6 +71,7 @@ hermes mine wood
 hermes craft a wooden pickaxe
 hermes make a crafting table
 hermes drop cobblestone
+and more
 ```
 
 ## Stop Hermes
