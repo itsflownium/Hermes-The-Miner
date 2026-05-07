@@ -14,7 +14,6 @@ The public project name should be written as `Hermes The Miner`. The repository 
 
 Include these normal project source files and folders:
 
-- `.github/`
 - `.gitattributes`
 - `.gitignore`
 - `.env.example`
