@@ -2,8 +2,6 @@
 
 Hermes The Miner is a local Minecraft bot for Java Edition Open-to-LAN worlds. It joins as one player named `Hermes`, listens to Minecraft chat, and can follow, stop, mine, gather, craft, drop items, and respond through the local Hermes Agent setup.
 
-This repo is the LAN version only. It does not include the HermesLink/modpack variant.
-
 ## Requirements
 
 - Node.js 20 or newer.
